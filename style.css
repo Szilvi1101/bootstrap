@@ -1,0 +1,17 @@
+
+#hero{
+    background: url("diabhand.jpg")no-repeat center/cover;
+    height: 100vh;
+}
+
+#hatter {
+    height: 100vh;
+    background: url("diab.jpg") no-repeat center/cover;
+}
+
+.display-3{
+
+    color: brown;
+    text-shadow: 2px;
+}
+
